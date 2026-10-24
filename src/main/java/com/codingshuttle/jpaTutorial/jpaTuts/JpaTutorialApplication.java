@@ -9,6 +9,9 @@ public class JpaTutorialApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JpaTutorialApplication.class, args);
 		System.out.println("its sanskar");
+		System.out.println("its sanskar");
+		System.out.println("its sanskar");
+		System.out.println("its sanskar");
 	}
 
 }
